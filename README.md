@@ -163,3 +163,4 @@ Handler handler = new Handler() {
 ### Demo地址
 GitHub:https://github.com/Life1412378121/FlipperPlayer.git
 CSDN:https://download.csdn.net/my
+<img src="https://img-blog.csdnimg.cn/20190415194005388.gif"/>
